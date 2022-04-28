@@ -242,6 +242,7 @@ body, html{
   left: -7px;
   top: 11px;
   z-index: 3;
+  transition:all 200ms ease;
 }
 
 .eye#left .eyelid#lower:after{
@@ -264,6 +265,7 @@ body, html{
   left: 9px;
   top: 14px;
   z-index: 3;
+  transition:all 200ms ease;
 }
 
 .eye#left .eyelid#upper:after{
@@ -314,6 +316,7 @@ body, html{
   left: 10px;
   top: 11px;
   z-index: 3;
+  transition:all 200ms ease;
 }
 
 .eye#right .eyelid#lower:after{
@@ -336,6 +339,7 @@ body, html{
   left: -5px;
   top: 13px;
   z-index: 3;
+  transition:all 200ms ease;
 }
 
 .eye#right .eyelid#upper:after{
@@ -358,6 +362,7 @@ body, html{
   left: 85px;
   top: 73px;
   z-index: 3;
+  transition:all 200ms ease;
 }
 
 .eyebrow#left{
@@ -369,6 +374,7 @@ body, html{
   left: 36px;
   top: 23px;
   z-index: 3;
+  transition:all 200ms ease;
 }
 
 .nose{
@@ -396,6 +402,7 @@ body, html{
   top: 81px;
   left: 27px;
   transform: rotate(44deg);
+  transition:all 200ms ease;
 }
 
 .upper-lip{
